@@ -16,7 +16,7 @@ def word_pusher(a: str): return a.center(60)
 print(word_pusher("kutya"))
 
 
-# függvény ami karaktereket,szavakat, számokat egy listában
+# függvény ami karaktereket,szavakat, számokat számol egy listában
 def list_thing_counter(a: list): return a.count(10)
 
 
